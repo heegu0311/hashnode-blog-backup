@@ -3,6 +3,8 @@ title: "Mvp 프로젝트 초기 셋업 과정"
 datePublished: Fri Feb 07 2025 14:59:37 GMT+0000 (Coordinated Universal Time)
 cuid: cm6uw7adr000209l7f66obn6m
 slug: mvp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738940797963/358a287d-6724-4e90-8c9d-3839cabde215.png
+tags: 6rcc67cc
 
 ---
 
