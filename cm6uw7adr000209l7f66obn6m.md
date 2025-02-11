@@ -1,5 +1,6 @@
 ---
 title: "Mvp 프로젝트 초기 셋업 과정"
+seoTitle: "MVP 프로젝트 초기 셋업 과정"
 datePublished: Fri Feb 07 2025 14:59:37 GMT+0000 (Coordinated Universal Time)
 cuid: cm6uw7adr000209l7f66obn6m
 slug: mvp
@@ -100,4 +101,6 @@ AWS 인프라 구성을 다음과 같이 해보았습니다. 우선 AWS IT 클�
         > express : 419 kB  
         > \* [https://bundlephobia.com/](https://bundlephobia.com/)
         
+* TypeORM
+    
 * MySQL
