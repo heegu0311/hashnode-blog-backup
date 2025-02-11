@@ -1,6 +1,6 @@
 ---
 title: "Mvp 프로젝트 초기 셋업 과정"
-seoTitle: "MVP 프로젝트 초기 셋업 과정"
+seoTitle: "MVP 프로젝트 초기 셋업 가이드"
 datePublished: Fri Feb 07 2025 14:59:37 GMT+0000 (Coordinated Universal Time)
 cuid: cm6uw7adr000209l7f66obn6m
 slug: mvp
@@ -32,7 +32,7 @@ tags: 6rcc67cc
 
 AWS 인프라 구성을 다음과 같이 해보았습니다. 우선 AWS IT 클라우드 시장 점유율이 압도적이라는 점에서 Route53, Cloudfront, S3, EC2, RDS 정도의 구성으로 시작할 생각입니다. MVP 까지가 제가 맡은 업무이고, 이후에 고도화 작업을 하게된다면 개발을 누가 맡게 될지 모른다는 측면에서 가장 점유율이 많은 AWS를 사용하는 것이 낫겠다는 판단이었습니다.
 
-![MVP 인프라 구성](https://cdn.hashnode.com/res/hashnode/image/upload/v1738932787942/61cda632-856b-4649-831c-e30ffea6932e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739272930058/dd631f57-a2a7-4c8c-980e-e7a8bda63742.png align="center")
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
